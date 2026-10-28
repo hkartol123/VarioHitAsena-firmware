@@ -1,8 +1,8 @@
 {
     "version":  "1.1.2",
     "url":  "variohit-1.1.2.bin",
-    "size":  1456384,
-    "sha256":  "a889b460da4e8aa5e34ccca31cf5c29fe26059dd49e3713fb465485137cb9088",
-    "signature":  "dad108c09a509e3698133013d79b60bcd9d8f7994b06be7eae0b553dd0c08a45e62909bcc2234ae4cbabc2e2321b8e6c45be10bd09e99d55a076b51904f2f3a1",
+    "size":  1456400,
+    "sha256":  "afd0d66354275bdc2f332b6bb050d7da12f62343b35fc94977fa0e4930051e4d",
+    "signature":  "9b3dde505be380262850cf50e3ccdad13fe477e22d56297df58382e34dcf525392ea27075ef88c3f703675b284477f5bad3bcfa938dbc9bcf6430a2f391d2274",
     "notes":  "GPS hatasi duzeltildi"
 }
