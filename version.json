@@ -1,8 +1,8 @@
 {
     "version":  "1.1.2",
     "url":  "variohit-1.1.2.bin",
-    "size":  1456368,
-    "sha256":  "789da20b32b21450be2d8e7ca305a05d9f3285a3af298939355cd1e583ecadad",
-    "signature":  "d730110479ec1afaf874c0611eee4006cd1e1e2c442137df472da68cc40627a2e2648c455262426a91f879e4f6e4ee827564e745b6dfc7d9518f8d17d24fd2ce",
-    "notes":  "Zaman asimi eklendi"
+    "size":  1456384,
+    "sha256":  "a889b460da4e8aa5e34ccca31cf5c29fe26059dd49e3713fb465485137cb9088",
+    "signature":  "dad108c09a509e3698133013d79b60bcd9d8f7994b06be7eae0b553dd0c08a45e62909bcc2234ae4cbabc2e2321b8e6c45be10bd09e99d55a076b51904f2f3a1",
+    "notes":  "GPS hatasi duzeltildi"
 }
