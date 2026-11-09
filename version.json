@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.2",
-    "url":  "variohit-1.1.2.bin",
-    "size":  1456400,
-    "sha256":  "afd0d66354275bdc2f332b6bb050d7da12f62343b35fc94977fa0e4930051e4d",
-    "signature":  "9b3dde505be380262850cf50e3ccdad13fe477e22d56297df58382e34dcf525392ea27075ef88c3f703675b284477f5bad3bcfa938dbc9bcf6430a2f391d2274",
-    "notes":  "GPS hatasi duzeltildi"
+    "version":  "1.2.0",
+    "url":  "variohit-1.2.0.bin",
+    "size":  1483552,
+    "sha256":  "41826c2ca3a7113d52dbf63ef3b4fbc56ef9fd42ff8156a17bf5666b981b5b8b",
+    "signature":  "4639cfcf9c7040c1c37e4d08cb194369e7f4506ce8152a7d775ab1664991311d1b3a5ea150a5b07b71ec76fd1afa9ee33ee46510a365eb02c3f14201f17c9917",
+    "notes":  "Dil secenegi eklendi"
 }
