@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.2",
-    "url":  "variohit-1.4.2.bin",
-    "size":  1609824,
-    "sha256":  "15a0fd80b13ae69724ebc1f8df2241d5c8b4bf514594eab7418643ff07bf1a79",
-    "signature":  "3260e2986cad7f71eaf21db3a2e4fe5d6bff1b21ff360900154a42b9646cd1c8b430aefb8c120e47e263c7f674444302d544ce8d8fc7c1ac4465fac0834f7638",
-    "notes":  "Deneme Yapıldı"
+    "version":  "1.4.5",
+    "url":  "variohit-1.4.5.bin",
+    "size":  1610704,
+    "sha256":  "931d8716ab1577acf0d353bea05663661b5c230e1d9ebcb5f1a381fa3aa9f824",
+    "signature":  "8c8f327387ef4ba89c07153483fe4cc691ded35509d95b2ac9e7b529a5ddad3e839177a72459cb6a447a93fb42e508c44fe90b21bf7bbd022cf341b9eb849e32",
+    "notes":  "Sıcaklık Eklendi"
 }
