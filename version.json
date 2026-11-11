@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
-    "url":  "variohit-1.2.0.bin",
-    "size":  1483552,
-    "sha256":  "41826c2ca3a7113d52dbf63ef3b4fbc56ef9fd42ff8156a17bf5666b981b5b8b",
-    "signature":  "4639cfcf9c7040c1c37e4d08cb194369e7f4506ce8152a7d775ab1664991311d1b3a5ea150a5b07b71ec76fd1afa9ee33ee46510a365eb02c3f14201f17c9917",
-    "notes":  "Dil secenegi eklendi"
+    "version":  "1.4.2",
+    "url":  "variohit-1.4.2.bin",
+    "size":  1609824,
+    "sha256":  "15a0fd80b13ae69724ebc1f8df2241d5c8b4bf514594eab7418643ff07bf1a79",
+    "signature":  "3260e2986cad7f71eaf21db3a2e4fe5d6bff1b21ff360900154a42b9646cd1c8b430aefb8c120e47e263c7f674444302d544ce8d8fc7c1ac4465fac0834f7638",
+    "notes":  "Deneme Yapıldı"
 }
